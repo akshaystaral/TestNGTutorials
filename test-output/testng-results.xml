@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-09T10:42:11 IST" name="Default suite" finished-at="2021-03-09T10:43:47 IST" duration-ms="95418">
+    <groups>
+    </groups>
+    <test started-at="2021-03-09T10:42:11 IST" name="Default test" finished-at="2021-03-09T10:43:47 IST" duration-ms="95418">
+      <class name="udemydemo.B2bLogin">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:udemydemo.B2bLogin@1e730495]" started-at="2021-03-09T10:42:11 IST" name="beforeTest" finished-at="2021-03-09T10:43:35 IST" duration-ms="83236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="MerchantPortal()[pri:0, instance:udemydemo.B2bLogin@1e730495]" started-at="2021-03-09T10:43:35 IST" name="MerchantPortal" finished-at="2021-03-09T10:43:37 IST" duration-ms="2235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MerchantPortal -->
+        <test-method signature="manageVendors()[pri:0, instance:udemydemo.B2bLogin@1e730495]" started-at="2021-03-09T10:43:37 IST" name="manageVendors" finished-at="2021-03-09T10:43:47 IST" duration-ms="9769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageVendors -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:udemydemo.B2bLogin@1e730495]" started-at="2021-03-09T10:43:47 IST" name="afterTest" finished-at="2021-03-09T10:43:47 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- udemydemo.B2bLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="author" value="Guru99"/>
+<parameter name="searchKey" value="India"/>
+  <test thread-count="5" name="testGuru">
+  <parameter name="searchKey" value="UK" />
+  
+    <classes>
+    
+      <class name="udemydemo.NoParameterWithTestNGXML"/>
+      
+    </classes>
+  </test> <!-- Test5 -->
+</suite> <!-- Suite -->
